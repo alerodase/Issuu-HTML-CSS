@@ -1,0 +1,105 @@
+.derecha{
+    position: relative;
+    left: 500px;
+
+}
+.izquierda{
+    position: absolute;
+    left:10px;
+    top:15px
+}
+
+.margen-arriba{
+    margin-top:1px
+}
+
+.borde-abajo{
+    border-bottom-style: solid;
+    border-bottom-color:rgb(199, 191, 191);
+    border-bottom-width: 1px;
+}
+main{
+    position: absolute;
+    left:100px;
+    top:150px
+}
+
+.sign-in{
+    background-color:dodgerblue;
+    height:30px;
+    color:white;
+    border:0;
+    border-radius:3px;
+   
+}
+.google{
+    margin-top:-1px;
+    margin-right: 10px;
+    float:left;
+}
+.sign-in-fb{
+    background-color:#4267B2;
+    height:30px;
+    color:white;
+    border:0;
+    border-radius:3px;
+}
+.facebook{
+    position: absolute;
+    right:155px;
+    top:17px;
+
+}
+
+.posicionderecha{
+    position: absolute;
+    left:210px;
+    top:47px
+}
+
+p{
+    font-size:larger ;
+}
+
+fieldset{
+    border: 0;
+}
+
+.campo{
+    border-radius: 3px;
+    border-style: solid;
+    border-color: grey;
+    padding: 10px;
+}
+
+form{
+    position: absolute;
+    right:-246px
+}
+
+.pp{
+    font-size:medium;
+}
+
+.create-account{
+border-style: dashed;
+border-color: rgb(199, 191, 191);
+width: 200px;
+height: 50px;
+background-color: white;
+border-radius: 220px;
+font-weight:800;
+color:rgb(199, 191, 191)
+}
+
+.footer{
+    border-top-style: solid;
+    border-top-color: rgb(65, 63, 63,);
+    border-top-width: 1px;
+    position:absolute    ;
+    top:700px;
+    left:50px;
+    padding-top:15px;
+    border-color: rgb(199, 191, 191);
+    color:grey
+}
